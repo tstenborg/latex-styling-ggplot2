@@ -8,12 +8,11 @@
 
 ## Reporting
 
-1 Security vulnerabilities may be reported from the [Security Advisories](security/advisories) page.
-
-2 Security vulnerabilities may be reported from the [Security Advisories](https://github.com/tstenborg/latex-styling-ggplot2/security/advisories) page.
-
-3 Security vulnerabilities may be reported from the [Security Advisories](../../security/advisories) page.
-
 > [!CAUTION]
 > Do not report security vulnerabilities via GitHub discussions, issues or pull
 > requests.
+
+Please report any security vulnerabilities from the
+[Security Advisories](../../security/advisories) page. The
+*Report a vulnerability* button will compose a form allowing GitHub users to
+supply vulnerability details.
