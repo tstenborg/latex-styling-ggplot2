@@ -14,5 +14,5 @@
 
 Please report any security vulnerabilities from the
 [Security Advisories](../../security/advisories) page. The
-*Report a vulnerability* button will compose a form allowing GitHub users to
+_Report a vulnerability_ button will compose a form allowing GitHub users to
 supply vulnerability details.
