@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "Styling R ggplot2 graphics with LaTeX"
+message: "If you use this repository, please cite it using these metadata."
+type: software
+authors:
+  - given-names: Travis
+    family-names: Stenborg
+    orcid: "https://orcid.org/0000-0002-2693-9628"
+url: "https://github.com/tstenborg/latex-styling-ggplot2"
+abstract: >-
+  "This repository holds digital resources associated with the article \
+  'Styling R ggplot2 graphics with LaTeX'. ggplot2 is a popular graphics \
+  package used with the R statistical programming language. That article \
+  demonstrates supplementing ggplot2's native styling options with LaTeX. \
+  Applying Greek letters, italicised text and subscripts to a scatterplot, \
+  was used an illustrative example."
+keywords:
+  - ggplot2
+  - latex
+  - r
+preferred-citation:
+  authors:
+    - given-names: Travis
+      family-names: Stenborg
+  doi: "10.47397/tb/44-1/tb136stenborg-ggplot2"
+  end: 109 # Last page number.
+  issue: 1
+  journal: TUGboat
+  start: 108 # First page number.
+  title: "Styling R ggplot2 graphics with LaTeX"
+  type: article
+  volume: 44
+  year: 2023
